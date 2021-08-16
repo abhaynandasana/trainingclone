@@ -125,10 +125,10 @@
 // console.log(gret.next());
 // console.log(gret.next());
 
-const animals = ['cat','dog','monkey','dog','monkey','cat','tiger','dog'];
-const petsCount = animals.reduce((obj,animal)=>{
-    if(!obj[animal]) obj[animal] = 1;
-    else obj[animal]+=1
-    return obj;
-},{})
-console.log(petsCount);
+// const animals = ['cat','dog','monkey','dog','monkey','cat','tiger','dog'];
+// const petsCount = animals.reduce((obj,animal)=>{
+//     if(!obj[animal]) obj[animal] = 1;
+//     else obj[animal]+=1
+//     return obj;
+// },{})
+// console.log(petsCount);
